@@ -30,6 +30,3 @@ A browser-based interactive drum kit built using HTML, CSS and JavaScript.
 | K | Crash |
 | L | Kick Bass |
 
-Live Demo
-
-[Play the Drum Kit](YOUR-LIVE-LINK-HERE)
